@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include "mt19973ar.h"
+#include "mt19937ar.h"
 #include "matrix.h"
 
 #define NumofSample 50
